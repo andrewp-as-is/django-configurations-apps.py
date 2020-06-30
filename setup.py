@@ -1,14 +1,7 @@
-from setuptools import setup
+import setuptools
 
-setup(
+setuptools.setup(
     name='django-configurations-apps',
-    version='2020.6.5',
-    install_requires=[
-        'django_configurations',
-        'django_find_apps',
-        'setuptools',
-    ],
-    packages=[
-        'django_configurations_apps',
-    ],
+    install_requires=open('requirements.txt').read().splitlines(),
+    packages=setuptools.find_packages()
 )

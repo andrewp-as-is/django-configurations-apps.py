@@ -1,13 +1,13 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
+
 
 [![](https://img.shields.io/pypi/v/django-configurations-apps.svg?maxAge=3600)](https://pypi.org/project/django-configurations-apps/)
 [![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
-[![Travis](https://api.travis-ci.org/andrewp-as-is/django-configurations-apps.py.svg?branch=master)](https://travis-ci.org/andrewp-as-is/django-configurations-apps.py/)
+[![](https://github.com/andrewp-as-is/django-configurations-apps.py/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/django-configurations-apps.py/actions)
 
-#### Installation
+### Installation
 ```bash
 $ [sudo] pip install django-configurations-apps
 ```
@@ -67,5 +67,5 @@ django_gravatar
 +   [django-find-apps](https://pypi.org/project/django-find-apps/)
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>
